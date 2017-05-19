@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Five0.11\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="E:\Five0.11\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_b883d54b55279fe519bd3bd7e2e93403a87c5c22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Five0.11\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="E:\Five0.11\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.2.0_78b1d6e53ee02bc075ee66947374b8fffb712a3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Five0.11\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Five0.11\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_f9b3cdf21ac7e34f70a0dedb07834782999fcc82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Five0.11\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f1b55b1bbc61fe7a1d1579eb87c84c30ef4daa96">
+        <dex dex="E:\Five0.11\app\build\intermediates\pre-dexed\debug\instant-run_2e847eb495f8b03d7f8c0a16cc75f50cd2889629.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Five0.11\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="312b120a8aeefffd4c310ba48b3f5f913da6097e">
+        <dex dex="E:\Five0.11\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_975d881b37a3b283a434bc04586ea670131d68a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Five0.11\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="E:\Five0.11\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_b883d54b55279fe519bd3bd7e2e93403a87c5c22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Five0.11\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="E:\Five0.11\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_72f32f7b405142a1a914ac428ed10ea4895de719.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZKM\.gradle\caches\modules-2\files-2.1\org.aspectj\aspectjrt\1.8.10\1a14fe9e912f6e8bdbb5429b78b4090d8b47bc1\aspectjrt-1.8.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01a14fe9e912f6e8bdbb5429b78b4090d8b47bc1">
+        <dex dex="E:\Five0.11\app\build\intermediates\pre-dexed\debug\aspectjrt-1.8.10_86d1ee50b118ea5370b52b841acf3a7cb36a3469.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Five0.11\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="E:\Five0.11\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_7d08d4101250b314185f1c9e0fb0d8213eb2dbab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZKM\.gradle\caches\modules-2\files-2.1\org.aspectj\aspectjrt\1.8.10\1a14fe9e912f6e8bdbb5429b78b4090d8b47bc1\aspectjrt-1.8.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01a14fe9e912f6e8bdbb5429b78b4090d8b47bc1">
+        <dex dex="E:\Five0.11\app\build\intermediates\pre-dexed\debug\aspectjrt-1.8.10_86d1ee50b118ea5370b52b841acf3a7cb36a3469.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Five0.11\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Five0.11\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_f9b3cdf21ac7e34f70a0dedb07834782999fcc82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Five0.11\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="E:\Five0.11\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.2.0_f75c86b768f5c9ace1bd236b5bc4eb27533ad40b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Five0.11\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="E:\Five0.11\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_c7a1018152c440ab65aaab4ea4a19635561de0df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Five0.11\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="E:\Five0.11\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_c7a1018152c440ab65aaab4ea4a19635561de0df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Five0.11\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="E:\Five0.11\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.2.0_78b1d6e53ee02bc075ee66947374b8fffb712a3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Five0.11\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="E:\Five0.11\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.2.0_f75c86b768f5c9ace1bd236b5bc4eb27533ad40b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Five0.11\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="E:\Five0.11\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.2.0_b66bd0543807e922dead16842ccfc940286d0d76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Five0.11\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="E:\Five0.11\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_48dc593be9b9648b74243df32f7eb5826678520e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Five0.11\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="E:\Five0.11\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.2.0_b66bd0543807e922dead16842ccfc940286d0d76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Five0.11\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="E:\Five0.11\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_72f32f7b405142a1a914ac428ed10ea4895de719.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="E:\Five0.11\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_a28adcbe26d1c1cff58da229696dfcad28689020.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Five0.11\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="E:\Five0.11\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_7d08d4101250b314185f1c9e0fb0d8213eb2dbab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Five0.11\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="E:\Five0.11\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_48dc593be9b9648b74243df32f7eb5826678520e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="E:\Five0.11\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_a28adcbe26d1c1cff58da229696dfcad28689020.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,4 @@
+#Thu May 18 20:55:43 CST 2017
+base.0=E\:\\Five0.11\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\Five0.11\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
